@@ -1,4 +1,4 @@
-## Cyp3rGh0stXX13
+# Cyp3rGh0stXX13
 
 
 """app URL Configuration
@@ -21,5 +21,4 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-
 ]
